@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'africafinex'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_1aa7b1532fbe411985b69d1417bc646f }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_e5089440ac6b4bd48612133032ef5f76 }}
         package: .
